@@ -1,0 +1,15 @@
+body {
+  background: url(../images/disney-castle-faded.jpg) no-repeat center center;
+  background-size: cover;
+  font-family: 'Sofia', cursive;
+  font-size: 1.8em
+}
+
+h1 { color: #424242; }
+h2 { color: #424242; }
+h3 { color: #424242; }
+h4 { color: #424242; }
+
+p { color: #424242; }
+
+.material-icons.red600 { color: #FF0000; }
