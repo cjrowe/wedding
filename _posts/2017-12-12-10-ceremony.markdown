@@ -1,6 +1,6 @@
 ---
 layout: default
-img: chels_texas_sign.png
+img: salvation-army.jpg
 category: Services
 title: The Ceremony
 description: |
