@@ -23,8 +23,8 @@ s3_bucket: smithard-rowe.wedding
 # See http://docs.aws.amazon.com/general/latest/gr/rande.html#s3_region for valid endpoints
 s3_endpoint: eu-west-2
 
-#ignore_on_server:
-    #- googlec36c589b33473144.html
+ignore_on_server:
+    - google87c612be72238543.html
 
 # exclude_from_upload:
 #   - those_folders_of_stuff
