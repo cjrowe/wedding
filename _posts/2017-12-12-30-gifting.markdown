@@ -1,6 +1,7 @@
 ---
 layout: default
-img:
+img-1: prezola.svg
+img-2: johnlewis.png
 category: Services
 title: Gifting
 description: |

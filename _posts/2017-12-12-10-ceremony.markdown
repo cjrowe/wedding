@@ -1,6 +1,7 @@
 ---
 layout: default
-img: salvation-army.jpg
+img-1: salvation-army.jpg
+img-2: salvation-army-2.jpg
 category: Services
 title: The Ceremony
 description: |
