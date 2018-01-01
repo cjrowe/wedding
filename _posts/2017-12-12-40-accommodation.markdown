@@ -2,7 +2,7 @@
 layout: default
 img-1:
 category: Services
-title: Transport & Accommodation
+title: Accommodation
 description: |
 ---
 
